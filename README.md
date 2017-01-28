@@ -1,2 +1,2 @@
 # blog
-My thoughts
+My thoughts.
